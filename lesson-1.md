@@ -18,7 +18,7 @@ In the middle of a web page it would look like this:
 </html>
 ```
 
-At the moment as you can see this doesn’t output anything, but it doesn’t come up with any errors either.  It is just waiting for you to add any JavaScript code you want between the <script> tags.
+At the moment as you can see this doesn’t output anything, but it doesn’t come up with any errors either.  It is just waiting for you to add any JavaScript code you want between the `<script>` tags.
 
 It is also possible to write JavaScript in a different file and include it within your web page.  To do so you’d write something like the line below:
 ```
