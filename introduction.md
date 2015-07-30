@@ -15,9 +15,7 @@ In this tutorial in 7 short lessons you will learn how to -
 
 Although some of this can be accomplished by using JQuery it is useful to learn how to do this natively (which can also save you speed and memory in your apps).
 
-Lesson 1 - Including JavaScript In A Web Page
-
-& Using Different Files For HTML, CSS and JavaScript
+[Lesson 1 - Including JavaScript In A Web Page](introduction-1.md)
 
 Lesson 2 - Outputting Text To The Web Page
 
