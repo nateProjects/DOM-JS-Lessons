@@ -14,6 +14,8 @@ Notice that the new text overwrote the old text!  In fact it did it so fast you 
 
 Let’s break this down so it’s not so complex -
 
+Code			|	Explanation
+----------------|---------------------------------------------------------------------------
 document. 		|	← this is what you are working on - the document or web page
 getElementById	|	← this is how we are getting what you want to change or add to
 			    |	 (we are getting an element of the web page defined by an “id”)
