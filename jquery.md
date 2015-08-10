@@ -18,7 +18,7 @@ $(document).ready(function(){
  <script>
 	$( "p" ).text( "Some new text." );
 </script>
-```html
+```
 **Placing Text On A Web Page Using CSS**
 ```html
 <p id=”thisParagraph”></p>
