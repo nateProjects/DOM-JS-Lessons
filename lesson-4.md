@@ -5,7 +5,7 @@ What if you want your text to appear in a particular paragraph or part of a web 
 ```html
 <p id="test">text</p>
 <script type='text/javascript'>
-document.getElementById("test").innerHTML = "Hello World!";
+	document.getElementById("test").innerHTML = "Hello World!";
 </script>
 ```
 [TYPE](http://jsbin.com/rimewivero/1/edit?html,output) this in yourself or [WATCH](http://jsbin.com/qebuqiconi/1/edit?html,output) it in action (if yours doesn’t work)
