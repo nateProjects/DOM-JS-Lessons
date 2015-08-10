@@ -16,7 +16,7 @@ Although some of this can be accomplished by using JQuery it is useful to learn 
 
 [Lesson 1 - Including JavaScript In A Web Page](lesson-1.md)
 
-Lesson 2 - Outputting Text To The Web Page
+[Lesson 2 - Outputting Text To The Web Page](lesson-2.md)
 
 Lesson 3 - Accessing Input From A Web Page
 
