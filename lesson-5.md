@@ -12,13 +12,13 @@ CSS is HTML with style!  It is the way we specify what part of the page we want 
 It can also be used to rewrite how all HTML tags appear on the page, or only specific ones:
 ```html
 <style>
-body {
-    			background-color: linen;
-}
+	body {
+    	background-color: linen;
+	}
 #myLine {
-    			color: maroon;
-    			margin-left: 40px;
-} 
+		color: maroon;
+		margin-left: 40px;
+	} 
 </style>
 ```
 **Exercise: Place Text In A CSS Styled Element**
@@ -38,7 +38,7 @@ document.getElementById("test").innerHTML = "<b>Hello World!</b>";
 Note: If we are making enough changes to our styles we can use an CSS external file -
 ```html
 <head>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 ```
 [Lesson 6 - Placing Images On A Web Page Using CSS](lesson-6.md)

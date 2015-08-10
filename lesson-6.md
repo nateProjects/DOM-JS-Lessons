@@ -8,13 +8,13 @@ We can do the same thing for images as we have done for text.  This can be usefu
 This can be used for apps, but also for simple games in which the images are not animated.
 
 [TYPE](http://jsbin.com/kojisuwuwo/1/edit?html,output) in the following code and watch it work → 
-```
+```html
 <img id="myImg" src="">
-<script type='text/javascript'>
-function myFunction() {
-    			document.getElementById("myImg").src = "http://goo.gl/WuZpA5";
-}
-</script>
+	<script type='text/javascript'>
+		function myFunction() {
+    		document.getElementById("myImg").src = "http://goo.gl/WuZpA5";
+		}
+	</script>
 ```
 Not working?  Did you forget to call the function at the end - myFunction(); 
 ← [SEE](http://jsbin.com/tuhayeqene/1/edit?html,output) the result
@@ -29,13 +29,13 @@ You now know the basics of how to use JavaScript with HTML.  With the extra know
 
 To learn more about dealing with web page elements natively there is a tutorial here -
 
-[](http://www.w3schools.com/js/js_htmldom.asp)
+[W3 Schools](http://www.w3schools.com/js/js_htmldom.asp)
 
 See the following for information on JavaScript Events - 
 
-* [](http://www.codecademy.com/courses/web-beginner-en-A0uwI/0/1
-* [](http://www.w3schools.com/js/js_events.asp
-* [](http://www.w3schools.com/js/js_htmldom_events.asp
+* [Code Academy](http://www.codecademy.com/courses/web-beginner-en-A0uwI/0/1
+* [W3 Schools](http://www.w3schools.com/js/js_events.asp
+* [W3 Schools DOM](http://www.w3schools.com/js/js_htmldom_events.asp
 
 **References**
 
@@ -43,6 +43,6 @@ Here is a cheat sheet that may come in use - http://overapi.com/html-dom/
 
 Below is some more documentation on using JavaScript with HTML:
 
-* [](http://www.techotopia.com/index.php/JavaScript_Document_Object
-* [](http://www.techotopia.com/index.php/Building_Forms_with_JavaScript
-* [](http://www.techotopia.com/index.php/JavaScript_and_CSS_-_Dynamic_Styles_and_Layers
+* [TechTopia DOM](http://www.techotopia.com/index.php/JavaScript_Document_Object
+* [TechTopia Forms](http://www.techotopia.com/index.php/Building_Forms_with_JavaScript
+* [TechTopia Styles](http://www.techotopia.com/index.php/JavaScript_and_CSS_-_Dynamic_Styles_and_Layers
