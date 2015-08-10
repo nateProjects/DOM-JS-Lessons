@@ -22,10 +22,8 @@ Although some of this can be accomplished by using JQuery it is useful to learn 
 
 [Lesson 4 - Outputting Text To A Specific Element In A Web Page](lesson-4.md)
 
-Lesson 5 - Placing Text On A Web Page Using CSS
+[Lesson 5 - Placing Text On A Web Page Using CSS](lesson-5.md)
 
-Lesson 6 - Placing Images On A Web Page Using CSS
+[Lesson 6 - Placing Images On A Web Page Using CSS](lesson-6.md)
 
-References
-
-
+JQuery Overview

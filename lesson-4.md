@@ -49,4 +49,4 @@ document.getElementById("showText").innerHTML = "You typed: " + fieldVal;
 
 Using elements like this is a better way to place text, but it is still limited.  Sometimes we need to control exactly where our text is. ...  
 
-Lesson 5 - Placing Text On A Web Page Using CSS
+[Lesson 5 - Placing Text On A Web Page Using CSS](lesson-5.md)
