@@ -9,12 +9,16 @@ var reply = prompt("What’s your name? ");
 ```
 Surprise - this works with web pages too!  We can add a line to output the results thus:
 ```javascript
-document.write(“Hello “, reply);		← [HERE](http://jsbin.com/jebudateso/1/edit?html,output) You can see it all work
+document.write(“Hello “, reply);
 ```
+		← [HERE](http://jsbin.com/jebudateso/1/edit?html,output) You can see it all work
+
 However, there are more elegant ways to get input from a web page.  We can create an input form field in HTML like this:
 ```html
-<input type="text" id="myText" value="Sample text">		← [TRY](http://jsbin.com/huyaqelebo/1/edit?html,output) this
+<input type="text" id="myText" value="Sample text">		
 ```
+← [TRY](http://jsbin.com/huyaqelebo/1/edit?html,output) this
+
 But, this only accepts the text input though and it doesn’t put it in a variable, nor does it submit it in any way.  This where things get a little more complicated, but don’t worry we’ll break it down step by step.
 
 **Exercise: Form Based Text Input**
