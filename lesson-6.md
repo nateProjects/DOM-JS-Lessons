@@ -33,9 +33,9 @@ To learn more about dealing with web page elements natively there is a tutorial 
 
 See the following for information on JavaScript Events - 
 
-* [Code Academy](http://www.codecademy.com/courses/web-beginner-en-A0uwI/0/1
-* [W3 Schools](http://www.w3schools.com/js/js_events.asp
-* [W3 Schools DOM](http://www.w3schools.com/js/js_htmldom_events.asp
+* [Code Academy](http://www.codecademy.com/courses/web-beginner-en-A0uwI/0/1)
+* [W3 Schools](http://www.w3schools.com/js/js_events.asp)
+* [W3 Schools DOM](http://www.w3schools.com/js/js_htmldom_events.asp)
 
 **References**
 
@@ -43,6 +43,6 @@ Here is a cheat sheet that may come in use - http://overapi.com/html-dom/
 
 Below is some more documentation on using JavaScript with HTML:
 
-* [TechTopia DOM](http://www.techotopia.com/index.php/JavaScript_Document_Object
-* [TechTopia Forms](http://www.techotopia.com/index.php/Building_Forms_with_JavaScript
-* [TechTopia Styles](http://www.techotopia.com/index.php/JavaScript_and_CSS_-_Dynamic_Styles_and_Layers
+* [TechTopia DOM](http://www.techotopia.com/index.php/JavaScript_Document_Object)
+* [TechTopia Forms](http://www.techotopia.com/index.php/Building_Forms_with_JavaScript)
+* [TechTopia Styles](http://www.techotopia.com/index.php/JavaScript_and_CSS_-_Dynamic_Styles_and_Layers)
