@@ -24,6 +24,7 @@ But, this only accepts the text input though and it doesn’t put it in a variab
 **Exercise: Form Based Text Input**
 
 Starting with a basic web template …	← [OPEN](http://jsbin.com/cekigaluwe/1/edit?html,output) a basic page for editing
+
 ... lets create the HTML form with the input in it.  Put the following in the `<body>` of the page:
 ```html
     <form name="testForm" onsubmit="return processForm()"> 
@@ -50,4 +51,4 @@ This function creates a variable from the text input field in the form, then it 
 
 So what is the “return false” statement for?  It just lets the page know it doesn’t need to ask again for the text input.
 
-Lesson 4 - Outputting Text To A Specific Element In A Web Page
+[Lesson 4 - Outputting Text To A Specific Element In A Web Page](lesson-4.md)
