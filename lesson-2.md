@@ -12,7 +12,7 @@ Or using this:
 ``` window.alert("Hello World!");  	
 
 ← Which works from a web page [POP-UP](http://jsbin.com/yinenirore/1/edit?html,output) - (click “Run with JS”)
-```
+```html
 <html>
 	<body>
 		<script type='text/javascript'>
@@ -28,7 +28,7 @@ However, this only outputs to a console (or terminal) used for testing your code
 By adding your name between the quotes it now appears on the web page.
 
 Exercise
-```
+```html
 <html>
   <body>
     <script type='text/javascript'>
@@ -49,7 +49,7 @@ If you have any trouble doing this
 
 → [HERE](http://jsbin.com/dujenamila/1/edit?html,output) is an example for you to fill out.
 
-```
+```html
 <html>
   <body>
     <script type='text/javascript'>
