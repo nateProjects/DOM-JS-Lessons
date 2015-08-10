@@ -3,13 +3,13 @@ Lesson 2 - Outputting Text To The Web Page
 
 In your previous JavaScript tutorials you have used console.log to output text like this:
 
-console.log("Hello World!"); 	 
+```console.log("Hello World!"); 	 
 
 ← [RUN](http://jsbin.com/suwaracaqu/1/edit?js,console) this to see it in action if you like
 
 Or using this:
 
-window.alert("Hello World!");  	
+```window.alert("Hello World!");  	
 
 ← Which works from a web page [POP-UP](http://jsbin.com/yinenirore/1/edit?html,output) - (click “Run with JS”)
 ```
@@ -23,7 +23,7 @@ window.alert("Hello World!");
 ```
 However, this only outputs to a console (or terminal) used for testing your code and not to the screen or a web page.  To do that we use a different command:
 
-document.write("");	
+```document.write("");	
 
 By adding your name between the quotes it now appears on the web page.
 
