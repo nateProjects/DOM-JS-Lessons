@@ -11,7 +11,7 @@ Surprise - this works with web pages too!  We can add a line to output the resul
 ```javascript
 document.write(“Hello “, reply);
 ```
-		← [HERE](http://jsbin.com/jebudateso/1/edit?html,output) You can see it all work
+← [HERE](http://jsbin.com/jebudateso/1/edit?html,output) You can see it all work
 
 However, there are more elegant ways to get input from a web page.  We can create an input form field in HTML like this:
 ```html
