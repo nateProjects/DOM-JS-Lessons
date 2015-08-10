@@ -50,3 +50,4 @@ This function creates a variable from the text input field in the form, then it 
 
 So what is the “return false” statement for?  It just lets the page know it doesn’t need to ask again for the text input.
 
+Lesson 4 - Outputting Text To A Specific Element In A Web Page

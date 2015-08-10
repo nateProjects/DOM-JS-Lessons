@@ -18,7 +18,7 @@ Although some of this can be accomplished by using JQuery it is useful to learn 
 
 [Lesson 2 - Outputting Text To The Web Page](lesson-2.md)
 
-Lesson 3 - Accessing Input From A Web Page
+[Lesson 3 - Accessing Input From A Web Page](lesson-3.md)
 
 Lesson 4 - Outputting Text To A Specific Element In A Web Page
 

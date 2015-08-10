@@ -28,7 +28,7 @@ document.write("");
 ```
 By adding your name between the quotes it now appears on the web page.
 
-Exercise
+**Exercise: Add Your Name**
 ```html
 <html>
   <body>
@@ -40,7 +40,7 @@ Exercise
 ```
 Using this method we can also output variables and strings.
 
-Exercise: Add Some Variables
+**Exercise: Add Some Variables**
 
 [TRY](http://jsbin.com/kodubupatu/1/edit?html,output) adding a variable for your name and your age and outputting it using document.write.
 
@@ -61,7 +61,7 @@ If you have any trouble doing this
   </body>
 </html>
 ```
-Exercise: Format Your Output
+**Exercise: Format Your Output**
 
 However, this doesn’t quite look so tidy, so why don’t you [ADD](http://jsbin.com/difowucoci/1/edit?html,output) a comma and some spacing between the name and age.  To do this just add some quotes containing this in between.
 
@@ -78,3 +78,5 @@ Not sure how to do this?	→ [LOOK](http://jsbin.com/balihuqixi/1/edit?html,outp
 </html>
 ```
 Note: Notice how we needed to add the spacing and comma inside quotes to make it appear on the page, and also needed commas around it to separate it from the variables.
+
+[Lesson 3 - Accessing Input From A Web Page](lesson-3.md)
