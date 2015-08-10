@@ -26,4 +26,4 @@ Although some of this can be accomplished by using JQuery it is useful to learn 
 
 [Lesson 6 - Placing Images On A Web Page Using CSS](lesson-6.md)
 
-JQuery Overview
+[JQuery Overview](jquery.md)
